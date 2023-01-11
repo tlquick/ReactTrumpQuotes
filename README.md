@@ -9,3 +9,5 @@ fork, npm i, create .env with REACT_APP_API set to the url for the API (currentl
 ## `npm start`
 Click the button "What did the Don say", to get the payload from the Lambda
 
+### Live Site
+This project has been deployed on netlify. See it here: https://63be30f92b22523a6ca36005--vermillion-halva-999999.netlify.app/
